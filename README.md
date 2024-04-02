@@ -11,7 +11,7 @@ I'm **iOS Developer** with **Strong Soft Skills** through Education Experience.
 ](https://velog.io/@catcota/사이드-프로젝트-클린아키텍쳐-적용해보기-1탄)
     - In English - [Clean Architecture Journey: Part1](https://github.com/ohcle/ohcle-iOS/blob/develop_cleanArchitecture/README.md)
 
-### The Topics I taught (Jan/2023 - Current)
+### The Topics I taught (Jan/2022 - Current)
 ||||
 |------|---|---|
 |Git&PR|H.I.G|MVC|
