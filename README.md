@@ -45,7 +45,7 @@ I'm **iOS Developer** with **Strong Soft Skills** through Education Experience.
 
 ### Recent Projects
 #### Working on (27/03/2024 ~)
-- [Climeet(클밋)](https://github.com/TheClimeet)
+- [Climeet(클밋)](https://github.com/TheClimeet/climeet-iOS)
 
 
 ### Finished Projects
